@@ -59,8 +59,8 @@ export const Button = styled.button<Props>`
     font-weight: bold;
     color: var(--white);
 
-  content: '${(props) => props.mentions && props.mentions}';
-  display: ${props => 
+    content: '${(props) => props.mentions && props.mentions}';
+    display: ${props => 
     props.mentions && props.mentions > 0 ? 'inline' : 'none'}
   }
 
