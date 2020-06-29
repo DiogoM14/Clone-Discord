@@ -3,7 +3,6 @@
 </h1>
 
 <h1 align="center">
-<<<<<<< HEAD
     <img src="./src/assets/discord-final.png">
 </h1>
 
@@ -29,20 +28,16 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ---
 
 ## 🗂 Como baixar o projeto
-=======
-  Work in progress
 
 <h1 align="center"><p>🗂 Como baixar o projeto 
->>>>>>> bc1f0c97fbff92968da9934c7e33dbbb886e63b5
 
 ```bash
 
     # Clonar o repositório
-<<<<<<< HEAD
+
     $ git clone https://github.com/Xavi002/Clone-Discord
-=======
+
     $ git clone https://github.com/Xavi002/Clone-Discord.git
->>>>>>> bc1f0c97fbff92968da9934c7e33dbbb886e63b5
 
     # Entrar no diretório
     $ cd clone-discord
